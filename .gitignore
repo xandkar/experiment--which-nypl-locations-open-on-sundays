@@ -1,0 +1,4 @@
+images/
+*.html
+*.txt
+uri-api-response*.json
